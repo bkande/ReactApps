@@ -1,2 +1,2 @@
 #ReactApp
-This is a sample React app.
+This is a sample React app
